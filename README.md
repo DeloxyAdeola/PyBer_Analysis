@@ -17,5 +17,5 @@ In order to reduce the disparity between Urban, Suburban and Rural cities, we re
 Rather than focusing on just the first third of the year, the study may gain from having extra data points that span the entire year and provide insights into yearly trends.
 It seems like the Rural cities are underserved, but it would be neccesary to perform a market study to confirm if there is enough demand in this market segment to justify investing in hiring more drivers.
 Based on the relationship of Urban cities of 2405 Drivers/1625 Rides = 1.48 Drivers/Ride, the total number of drivers in Rural areas shold be increased at least to 185 (78 drivers * 1.48 = 185 drivers), but this increase has to be supported by a market study, as explained in #2
-Using the same metric as in #3 above, the number of drivers in Suburban cities should be increased to a minimum of 726
+Using the same metric as in #3 above, the number of drivers in Suburban cities should be increased to a minimum of 726.
 I also believe that thr CEO should give disconts to the Rural cities since they are less privileged and find themselves spending more on ride sharing. The comapny is already generating a mouth watering income from the Urban and suburban cities. it would be great if this sugesstion can be put into consideration. 

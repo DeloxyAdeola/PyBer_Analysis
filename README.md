@@ -5,7 +5,12 @@ Witht the types of cities and how populated they seem to be, the graph observati
 In Avearage terms, we can see that rural Drivers out performed Suburban and Urban drivers.
 Urban cities generated the most income for Pyber followed by Suburban and Rural. 
 In the later days in the Month of Feb, there was increase in all city types, should we liking that to the facts that the weather woould have restricted people from driving. 
+[alt text](https://github.com/DeloxyAdeola/PyBer_Analysis/blob/main/mat%20graph.png "a graph")
 
+
+
+
+[
 In colusion.
 Urban cities generate the most revenue for PyBer
 Customers in Urban cities pay less per ride and therefore drivers earn less per ride

@@ -10,7 +10,7 @@ In the later days in the Month of Feb, there was increase in all city types, sho
 
 
 
-[
+
 In colusion.
 Urban cities generate the most revenue for PyBer
 Customers in Urban cities pay less per ride and therefore drivers earn less per ride
